@@ -31,7 +31,7 @@
 			</div>			
 			
 			<div class="element-form">
-				<label>Kota</label>
+				<label>Kendaraan</label>
 				<span>
 					<select name="kota">
 						<?php
