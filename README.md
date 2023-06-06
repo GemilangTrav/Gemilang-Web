@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-v1.0-blue">
   <img src="https://img.shields.io/badge/license-MIT-green">
-  <img src="https://img.shields.io/badge/author-Your%20Name-orange">
+  <img src="https://img.shields.io/badge/author-Kelompok%20delapan-orange">
 </p>
 
 <!-- Tampilan Screenshot/Gambar Proyek -->
