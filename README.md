@@ -33,6 +33,7 @@
    ```shell
    git clone https://github.com/GemilangTrav/Gemilang-Web.git
 
+3. import file database yang ada di folder DB lalu import
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
